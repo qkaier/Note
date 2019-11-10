@@ -61,3 +61,7 @@ int main()
   你好[世界](http://github.com)  
 + 直接连接
   <http://github.com>
+### 图片展示
+图片展示就是要以！开始声明是图片，接着是中括号里的alt信息，最后是小括号里的图片ulr链接地址
+![清纯小姑娘](https://github.com/qkaier/Note/blob/master/img/001.jpg)
+
